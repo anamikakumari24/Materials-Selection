@@ -1,0 +1,6 @@
+material,density_kg_m3,yield_MPa,weld_retention,corrosion_grade,price_usd_per_kg
+Mild steel (baseline),7850,370,1.0,D,0.55
+Al 6061-T6,2700,276,0.48,B,4.0
+Al 5052-H32,2680,193,0.36,A,3.25
+Al 7075-T6,2810,503,0.57,D,5.75
+Mg AZ31B-H24,1770,214,0.85,E,2.3

@@ -1,0 +1,6 @@
+material,status,reason
+Mild steel (baseline),PASS,Meets all limits
+Al 6061-T6,PASS,Meets all limits
+Al 5052-H32,ELIMINATED,after-weld yield below minimum
+Al 7075-T6,ELIMINATED,price above maximum
+Mg AZ31B-H24,ELIMINATED,corrosion score below minimum

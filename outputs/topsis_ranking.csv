@@ -1,0 +1,3 @@
+material,yield_after_weld_MPa,weld_retention,corrosion_score,price_usd_per_kg,ashby_after_weld,closeness,rank
+Mild steel (baseline),370.0,1.0,3,0.55,2.450367396391254,0.630721860167,1
+Al 6061-T6,132.48,0.48,7,4.0,4.262961354055751,0.369278139833,2
