@@ -1,4 +1,4 @@
-# Mechanical Material Selection for an Electronic Vehicle Battery Enclosure using Ashby Screening and TOPSIS.
+# Mechanical Material Selection for an EV Battery Enclosure using Ashby Screening and TOPSIS.
 
 This Python project compares sheet-metal candidates for a welded EV battery enclosure.
 It considers lightweight performance, strength after welding, corrosion, and price.
